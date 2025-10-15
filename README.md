@@ -1,4 +1,4 @@
-# EEG_release_supporting_code
+# Code supporting the release of a dataset of EEG/ECG recordings from 1000 infants, children and adolescents.
 This repository includes code that supports the public release of the Helsinki 1000 EEG/ECG dataset. This dataset can be found on Zenodo - 
 
 * anonymize_dataset_for_github.m - outlines the procedure used to anonymize the dataset, including randomizing filenames, writing generic header files to the EDF files, and quantizing age.
